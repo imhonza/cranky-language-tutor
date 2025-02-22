@@ -1,0 +1,8 @@
+languages:
+  spanish:
+    - translate
+    - conjugate_verbs
+  czech:
+    - translate
+    - conjugate_verbs
+    - identify_case
