@@ -2,10 +2,6 @@
 
 A **Telegram bot** for language learning using **spaced repetition**, inspired by the Leitner system.
 
-<p align="left">
-<img src="https://github.com/user-attachments/assets/5043352e-7dc8-40e8-a352-fd5c9c59b0f2" height="300" />
-</p>
-
 ## Features  
 
 - **Telegram Bot** – Built with `pyTelegramBotAPI` and `Flask`
@@ -23,10 +19,4 @@ A **Telegram bot** for language learning using **spaced repetition**, inspired b
 - `/add [phrase]` – Add a phrase to your spaced repetition queue.  
 - `/stats` – Generate a Plotly-based report of your vocabulary distribution across Leitner stages.
 - `/practice` – Get a phrase to translate. Responses are evaluated with explanations.
-  <p align="left">
-  <img src="https://github.com/user-attachments/assets/8f90ff4f-6e31-4bee-aef0-c7fdae5caec4" height="300" />
-  </p>
 - **Image Upload** – Upload an image with text, and the bot extracts phrases for practice.
-  <p align="left">
-  <img src="https://github.com/user-attachments/assets/6acdd1b4-8ccf-4c52-8e7c-581c5f1c9eec" height="300" />
-  </p>
